@@ -3,7 +3,7 @@ In this challenge we would like for you to create a .NET Core API in a Docker co
 
 ### The Board
 Below is an image of the gameboard. You will need to setup the game to play according to this board. 
-![SnakesAndLaddersGameBoard](/images/sandl.jpg)
+![SnakesAndLaddersGameBoard](/sandl.jpg)
  
 ### The Rules of the Game
 1.	Players cycle through turns. Player 1 starts. Once their turn is over play proceeds to Player 2, etc., and then back to Player 1. 
